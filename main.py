@@ -20,6 +20,11 @@ def index():
     return render_template("index.html")
 
 
+@app.route("/sec_index", methods=["GET"])
+def sec_index():
+    return render_template("sec.html")
+
+
 
 @app.errorhandler(404)
 def not_found(e):

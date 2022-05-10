@@ -1,8 +1,8 @@
 # Deta link shortener
-Firt Project host into-deta-cloude
-<!-- ## [Demo](https://lshort.deta.dev/)
+Firt Project host into-deta-cloude 
+## [Demo](https://36ccfe.deta.dev/)
 
-## [ShareX config](https://lshort.deta.dev/sharex) -->
+## [ShareX config]https://36ccfe.deta.dev/)
 
 ## Deploy
 
