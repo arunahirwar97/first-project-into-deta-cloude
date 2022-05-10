@@ -1,8 +1,8 @@
 # Deta link shortener
 Firt Project host into-deta-cloude 
-## [Demo](https://36ccfe.deta.dev/)
+## [Demo](https://wymnje.deta.dev/)
 
-## [ShareX config]https://36ccfe.deta.dev/)
+## [ShareX config](https://wymnje.deta.dev/)
 
 ## Deploy
 
